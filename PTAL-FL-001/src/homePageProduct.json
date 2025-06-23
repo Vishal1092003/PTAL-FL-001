@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "image": "/homePageImages/bestSellers/brass_water_dispenser.webp",
+    "rating": 5,
+    "reviews": 72,
+    "name": "COPPER WATER DISPENSER",
+    "price": "FROM ₹ 8,195",
+    "alt": "Copper Water Dispenser",
+    "class": "bestSellers"
+  },
+  {
+    "id": 2,
+    "image": "/homePageImages/bestSellers/Brass_Saucepan_with_Insulated_Handle.webp",
+    "rating": 5,
+    "reviews": 8,
+    "name": "BRASS SAUCEPAN WITH INSULATED HANDLE",
+    "price": "FROM ₹ 2,190",
+    "alt": "Brass Saucepan",
+    "class": "bestSellers"
+  },
+  {
+    "id": 3,
+    "image": "/homePageImages/bestSellers/Brass_Tawa_with_Insulated_handle-Roti_Tawa_in_Brass.webp",
+    "rating": 4,
+    "reviews": 12,
+    "name": "BRASS TAWA WITH INSULATED HANDLE- ROTI",
+    "price": "FROM ₹ 3,489",
+    "alt": "Brass Tawa",
+    "class": "bestSellers"
+  },
+  {
+    "id": 4,
+    "image": "/homePageImages/bestSellers/Copper_Frypan_Frying_Pan_with_Insulated_Brass_Handle.webp",
+    "rating": 5,
+    "reviews": 11,
+    "name": "COPPER FRYPAN (FRYING PAN) WITH INSULATED BRASS",
+    "price": "FROM ₹ 3,290",
+    "alt": "Copper Frypan",
+    "class": "bestSellers"
+  },
+  {
+    "id": 5,
+    "image": "/homePageImages/bestSellers/Brass_Kadhai_with_Glass_Lid(Round_Base).webp",
+    "rating": 4,
+    "reviews": 10,
+    "name": "BRASS KADHAI WITH GLASS LID (ROUND BASE)",
+    "price": "FROM ₹ 3,999",
+    "alt": "Copper Frypan",
+    "class": "bestSellers"
+  },
+  {
+    "id": 6,
+    "image": "/homePageImages/bestSellers/copper_water_bottle.webp",
+    "rating": 5,
+    "reviews": 28,
+    "name": "COPPER WATER BOTTLE",
+    "price": "FROM ₹ 2,750",
+    "alt": "Copper water bottle",
+    "class": "bestSellers"
+  },
+  {
+    "id": 7,
+    "image": "/homePageImages/bestSellers/Brass_Masala_Daani-Spice_Box_in_Gift_Box.webp",
+    "rating": 4,
+    "reviews": 48,
+    "name": "BRASS MASALA DAANI (SPICE BOX) IN GIFT BOX",
+    "price": "FROM ₹ 5,877",
+    "alt": "Brass Masala Daani",
+    "class": "bestSellers"
+  },
+  {
+    "id": 8,
+    "image": "/homePageImages/bestSellers/brass_ghee_pot.webp",
+    "rating": 5,
+    "reviews": 77,
+    "name": "BRASS GHEE POT",
+    "price": "FROM ₹ 1,850",
+    "alt": "Brass Ghee Pot",
+    "class": "bestSellers"
+  },
+  {
+    "id": 9,
+    "image": "/homePageImages/bestSellers/copper_water_bottle.webp",
+    "rating": 5,
+    "reviews": 28,
+    "name": "COPPER WATER BOTTLE",
+    "price": "FROM ₹ 2,750",
+    "alt": "Copper bottle",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 10,
+    "image": "/mulemugs.png",
+    "rating": 4,
+    "reviews": 15,
+    "name": "Copper Moscow Mule Mugs (Set of 2 in gift box)",
+    "price": "FROM ₹ 2,945",
+    "alt": "Copper Moscow Mule Mugs",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 11,
+    "image": "/homePageImages/newlyLaunched/KalaiKit(TinCoatingkitforcookwareutensils).webp",
+    "rating": 4,
+    "reviews": 9,
+    "name": "Kalai Kit (Tin Coating kit for cookware utensils)",
+    "price": "FROM ₹ 1,490",
+    "alt": "Kalai Kit (Tin Coating kit for cookware utensils)",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 12,
+    "image": "/homePageImages/newlyLaunched/Copper_Madurai_Handi.webp",
+    "rating": 5,
+    "reviews": 20,
+    "name": "COPPER MADURAI HANDI",
+    "price": "FROM ₹ 5,995",
+    "alt": "COPPER MADURAI HANDI",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 13,
+    "image": "/homePageImages/newlyLaunched/Copper_Hammered_Lagan.webp",
+    "rating": 5,
+    "reviews": 5,
+    "name": "BBRASS HAMMERED LAGAN- LAGAAN FOR COOKING",
+    "price": "FROM ₹ 12,895",
+    "alt": "BBRASS HAMMERED LAGAN",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 14,
+    "image": "/homePageImages/newlyLaunched/Brass_Hammered_Cutlery_Set(Setof4).webp",
+    "rating": 4,
+    "reviews": 2,
+    "name": "BRASS HAMMERED CUTLERY SET (Set of 4)",
+    "price": "FROM ₹ 4,250",
+    "alt": "BRASS HAMMERED CUTLERY SET (Set of 4)",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 15,
+    "image": "/homePageImages/newlyLaunched/Panjiri_in_Brass_Canister.webp",
+    "rating": 5,
+    "reviews": 25,
+    "name": "PANJIRI IN BRASS CANISTER",
+    "price": "FROM ₹ 3,000",
+    "alt": "PANJIRI IN BRASS CANISTER",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 16,
+    "image": "/homePageImages/newlyLaunched/Brass_Karchi-Scoop_Ladle.webp",
+    "rating": 5,
+    "reviews": 7,
+    "name": "BRASS KARCHI (SCOOP LADLE)",
+    "price": "FROM ₹ 1,490",
+    "alt": "BRASS KARCHI (SCOOP LADLE)",
+    "class": "newlyLaunched"
+  },
+  {
+    "id": 17,
+    "image": "/homePageImages/setsAndCombos/Copper_Water_Dispenser_Set.webp",
+    "rating": 5,
+    "reviews": 19,
+    "name": "COPPER WATER DISPENSER SET",
+    "price": "FROM ₹ 10,455",
+    "alt": "Copper Moscow Mule Mugs",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 18,
+    "image": "/homePageImages/setsAndCombos/Set_of_3_Brass_Patilas-Milk_Topias(1L,3L,5L).webp",
+    "rating": 4,
+    "reviews": 6,
+    "name": "SET OF 3 BRASS PATILAS (MILK TOPIAS) (1L, 3L, 5L)",
+    "price": "FROM ₹ 11,660",
+    "alt": "Copper Moscow Mule Mugs",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 19,
+    "image": "/mulemugs.png",
+    "rating": 4,
+    "reviews": 15,
+    "name": "Copper Moscow Mule Mugs (Set of 2 in gift box)",
+    "price": "FROM ₹ 2,945",
+    "alt": "Copper Moscow Mule Mugs",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 20,
+    "image": "/copperImages/Copper_Water_Dispenser_Set.webp",
+    "rating": 5,
+    "reviews": 19,
+    "name": "Copper Water Dispenser Set",
+    "price": "FROM ₹ 10,455",
+    "alt": "Copper Water Dispenser Set",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 21,
+    "image": "/copperImages/De-oxidising_Cleanser(Copper_and_Brass_cleaning_solution).webp",
+    "rating": 4,
+    "reviews": 7,
+    "name": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+    "price": "FROM ₹ 299",
+    "alt": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 22,
+    "image": "/kansaImages/Kansa_Dinner_Plate_Set-5_pieces_set(1_plate,2_bowls,1_glass_and_1_spoon).webp",
+    "rating": 5,
+    "reviews": 20,
+    "name": "Kansa Dinner Plate Set - 5 pieces set (1 plate, 2 bowls, 1 glass and 1 spoon)",
+    "price": "FROM ₹ 7,671",
+    "alt": "Kansa Dinner Plate Set - 5 pieces set (1 plate, 2 bowls, 1 glass and 1 spoon)",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 23,
+    "image": "/kansaImages/Kansa_Dinner_Thaali.webp",
+    "rating": 5,
+    "reviews": 15,
+    "name": "Kansa Dinner Plate / Bell Metal Plate",
+    "price": "FROM ₹ 3,199",
+    "alt": "Kansa Dinner Plate / Bell Metal Plate",
+    "class": "setsAndCombos"
+  },
+  {
+    "id": 24,
+    "image": "/kansaImages/Wedding_Invites_with_P-TAL_Kansa_Thaali.jpg",
+    "rating": 4,
+    "reviews": 17,
+    "name": "Wedding Invites with P-TAL Kansa Thaali",
+    "price": "FROM ₹ 4,750",
+    "alt": "Wedding Invites with P-TAL Kansa Thaali",
+    "class": "setsAndCombos"
+  }
+]

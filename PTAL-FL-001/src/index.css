@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Delayed start version */
+.animate-marquee-delayed {
+  animation: marquee 80s linear infinite;
+  animation-delay: 0s;
+  animation-fill-mode: forwards;
+  display: inline-flex;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

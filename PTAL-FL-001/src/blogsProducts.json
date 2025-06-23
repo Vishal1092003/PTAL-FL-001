@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "date": "May 01, 2025",
+    "title": "Tips to Clean and Care for Copper and Brass Cookware",
+    "image": "/blogSectionImages/img1.webp",
+    "link": "/NavbarPtal/BlogsComponents/component1"
+  },
+  {
+    "id": 2,
+    "date": "Mar 25, 2025",
+    "title": "How Does Copper Kill the Viruses That Cause Cold and Flu?",
+    "image": "/blogSectionImages/img2.webp",
+    "link": "/NavbarPtal/BlogsComponents/component2"
+  },
+  {
+    "id": 3,
+    "date": "Mar 18, 2025",
+    "title": "Copper Deficiency - Causes, Side Effects, and Treatment",
+    "image": "/blogSectionImages/img3.webp",
+    "link": "/NavbarPtal/BlogsComponents/component3"
+  },
+  {
+    "id": 4,
+    "date": "Feb 18, 2025",
+    "title": "Benefits and Side Effects of Copper Water",
+    "image": "/blogSectionImages/img4.webp",
+    "link": "/NavbarPtal/BlogsComponents/component4"
+  },
+  {
+    "id": 5,
+    "date": "Feb 11, 2025",
+    "title": "Which Type of Water Bottle Should We Use for Drinking Water Everyday?",
+    "image": "/blogSectionImages/img5.webp",
+    "link": "/NavbarPtal/BlogsComponents/component5"
+  },
+  {
+    "id": 6,
+    "date": "Jan 22, 2025",
+    "title": "Which 5 Drinks Are Served in a Copper Mug?",
+    "image": "/blogSectionImages/img6.webp",
+    "link": "/NavbarPtal/BlogsComponents/component6"
+  },
+  {
+    "id": 7,
+    "date": "Aug 01, 2024",
+    "title": "Simple, Quick & Easy Cleaning Tips for everyday use of Brass, Copper and Kansa utensils",
+    "image": "/blogSectionImages/img7.webp",
+    "link": "/NavbarPtal/BlogsComponents/component7"
+  },
+  {
+    "id": 8,
+    "date": "Jan 03, 2022",
+    "title": "A Home away from Home",
+    "image": "/blogSectionImages/img8.webp",
+    "link": "/NavbarPtal/BlogsComponents/component8"
+  },
+  {
+    "id": 9,
+    "date": "Dec 04, 2021",
+    "title": "Frolic of Festivities: Celebrating Dhanteras!",
+    "image": "/blogSectionImages/img9.jpg",
+    "link": "/NavbarPtal/BlogsComponents/component9"
+  },
+  {
+    "id": 10,
+    "date": "Dec 04, 2021",
+    "title": "Ayurvedic Cookware",
+    "image": "/blogSectionImages/img10.webp",
+    "link": "/NavbarPtal/BlogsComponents/component10"
+  },
+  {
+    "id": 11,
+    "date": "Dec 04, 2021",
+    "title": "Importance of Craft Revival",
+    "image": "/blogSectionImages/img11.webp",
+    "link": "/NavbarPtal/BlogsComponents/component11"
+  },
+  {
+    "id": 12,
+    "date": "Dec 04, 2021",
+    "title": "Shaadi Mubarak with P-TAL",
+    "image": "/blogSectionImages/img12.webp",
+    "link": "/NavbarPtal/BlogsComponents/component12"
+  },
+  {
+    "id": 13,
+    "date": "Dec 04, 2021",
+    "title": "Bouncing Back to our Roots",
+    "image": "/blogSectionImages/img13.webp",
+    "link": "/NavbarPtal/BlogsComponents/component13"
+  },
+  {
+    "id": 14,
+    "date": "Dec 04, 2021",
+    "title": "Bhande kali karalo (Tin Coating)",
+    "image": "/blogSectionImages/img14.webp",
+    "link": "/NavbarPtal/BlogsComponents/component14"
+  }
+  
+]

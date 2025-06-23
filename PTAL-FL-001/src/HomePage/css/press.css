@@ -1,0 +1,174 @@
+/* Press Section with Marquee */
+.press-section {
+  background-color: #b01c1a; 
+  padding: 30px 0; 
+  overflow: hidden;
+  position: relative;
+}
+
+.press-section::before,
+.press-section::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.press-section::before {
+  left: 0;
+  background: linear-gradient(90deg, #b01c1a 0%, rgba(176, 28, 26, 0) 100%);
+}
+
+.press-section::after {
+  right: 0;
+  background: linear-gradient(270deg, #b01c1a 0%, rgba(176, 28, 26, 0) 100%);
+}
+
+.ticker_logo {
+  width: 100%;
+}
+
+.marquee-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.marquee-block {
+  width: 100%;
+  overflow: hidden;
+}
+
+.marquee-inner {
+  display: flex;
+  width: fit-content;
+  position: relative;
+  animation: marqueeScroll 40s linear infinite;
+}
+
+.logo-track {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  padding: 0 40px;
+}
+
+.marquee-item {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.logo-container {
+  position: relative;
+  transition: all 0.5s ease;
+}
+
+.press-logo {
+  height: 40px; /* Reduced height */
+  width: auto;
+  max-width: 130px;
+  filter: brightness(0) invert(1);
+  opacity: 0.8;
+  transition: all 0.3s ease;
+  object-fit: contain;
+}
+
+.marquee-item:hover .press-logo {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+@keyframes marqueeScroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-100% / 3));
+  }
+}
+
+.marquee-inner:hover {
+  animation-play-state: paused;
+}
+
+.marquee-item:first-child {
+  animation: fadeIn 0.5s ease-out;
+}
+
+.marquee-item:last-child {
+  animation: fadeOut 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .logo-track {
+    gap: 40px;
+  }
+  .press-logo {
+    height: 35px;
+    max-width: 110px;
+  }
+}
+
+@media (max-width: 768px) {
+  .press-section {
+    padding: 20px 0;
+  }
+  .press-section::before,
+  .press-section::after {
+    width: 50px;
+  }
+  .logo-track {
+    gap: 30px;
+    padding: 0 20px;
+  }
+  .press-logo {
+    height: 30px;
+    max-width: 100px;
+  }
+  @keyframes marqueeScroll {
+    100% {
+      transform: translateX(calc(-100% / 2.5));
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-track {
+    gap: 20px;
+    padding: 0 15px;
+  }
+  .press-logo {
+    height: 25px;
+    max-width: 80px;
+  }
+  @keyframes marqueeScroll {
+    100% {
+      transform: translateX(calc(-100% / 2));
+    }
+  }
+}

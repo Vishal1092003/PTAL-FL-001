@@ -1,0 +1,147 @@
+[
+{
+    "id": 1,
+    "name": "COPPER WATER BOTTLE",
+    "price": "₹2,720",
+    "rating": 5,
+    "reviews": 23,
+    "image": "/copperImages/copper_water_bottle.webp",
+    "class": "copper"
+  },
+
+    {
+    "id": 2,
+    "name": "Brass Essentials Combo Set (Brass Roti Tawa with Insulated handle, Brass Ghee Pot, Brass Kadhai with Insulated handles & Glass lid)",
+    "price": 8362,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Brass Essentials Combo Set (Brass Roti Tawa_with_Insulated_handle,Brass_Ghee_Pot,Brass_Kadhai_with_Insulated_handle_&Glass_lid).webp",
+    "class": "brass"
+  },
+  {
+    "id": 3,
+    "name": "Brass AttaDaani(StorageContainer)",
+    "price": 12405,
+    "rating": 5,
+    "reviews": 8,
+    "image": "/brassImages/BrassAttaDaani(StorageContainer).webp",
+    "class": "brass"
+  },
+  {
+    "id": 4,
+    "name": "Copper Cookware Combo Set",
+    "price": 21208,
+    "rating": 4,
+    "reviews": 1,
+    "image": "/copperImages/Copper_Cookware_Combo_Set.webp",
+    "class": "copper"
+  },
+  {
+    "id": 5,
+    "name": "Copper Frypan (Frying Pan) with Insulated Brass Handle",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Frypan_Frying_Pan_with_Insulated_Brass_Handle.webp",
+    "class": "copper"
+  },
+  {
+    "id": 6,
+    "name": "Copper Glass",
+    "price": 1890,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Glass.webp",
+    "class": "copper"
+  },
+  {
+    "id": 7,
+    "name": "Copper Hammered Lagan - Lagaan for cooking- Naturally non stick , Non Toxic, Teflon Free",
+    "price": 12895,
+    "rating": 5,
+    "reviews": 5,
+    "image": "/copperImages/Copper_Hammered_Lagan.webp",
+    "class": "copper"
+  },
+  {
+    "id": 8,
+    "name": "Brass Atta Daani (Storage Container)",
+    "price": 1950,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Kuber_brass_diya(set_of_4)in_Ivory_gift_box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 9,
+    "name": "Naav brass diya (set of 4) in Ivory gift box",
+    "price": 1950,
+    "rating": 5,
+    "reviews": 13,
+    "image": "/brassImages/Naav_brass_diya(set_of_4)in_Ivory_gift_box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 10,
+    "name": "Panjiri in Brass Canister",
+    "price": 3000,
+    "rating": 5,
+    "reviews": 16,
+    "image": "/brassImages/Panjiri_in_Brass_Canister.webp",
+    "class": "brass"
+  },
+  {
+    "id": 11,
+    "name": "Set of 3 Brass Kadhais with Glass Lid (1.5L round base, 3L round base, 3L flat base)",
+    "price": 15210,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Set_of_3_Brass_Kadhais_with_Glass_Lid(1.5L_round_base,3L_round_base,3L-flat_base).webp",
+    "class": "brass"
+  },
+  {
+    "id": 12,
+    "name": "Set of 3 Brass Patilas / Milk Topias (1L, 3L, 5L)",
+    "price": 11660,
+    "rating": 5,
+    "reviews": 6,
+    "image": "/brassImages/Set_of_3_Brass_Patilas-Milk_Topias(1L,3L,5L).webp",
+    "class": "brass"
+  },
+  {
+    "id": 13,
+    "name": "Set of Brass Ladles",
+    "price": 3692,
+    "rating": 5,
+    "reviews": 12,
+    "image": "/brassImages/Set_of_Brass_Ladles.webp",
+    "class": "brass"
+  },
+  {
+    "id": 14,
+    "name": "Kansa Dinner Thaali",
+    "price": 3737,
+    "rating": 5,
+    "reviews": 35,
+    "image": "/kansaImages/Kansa_Dinner_Plate-Bell_Metal_Plate.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 15,
+    "name": "Kansa Dinner Thaali Set (10.5' Thaali) - 5 pieces (1 Thaali, 2 Bowls, 1 glass and 1 spoon)",
+    "price": 13839,
+    "rating": 5,
+    "reviews": 4,
+    "image": "/kansaImages/Kansa_Dinner_Thaali_Set.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 16,
+    "name": "Kansa Dinner Thaali Set (Thaali -13.5) - 8 pieces set (1 pc Thaali, 5 pieces bowls, 1 pc glass, 1 pc spoon)",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/kansaImages/Kansa_Dinner_Thaali_Set(Thaali-13.5)-8_pieces_set(1_pc_Thaali,5_pieces_bowls,1_pc_glass,1_pc.webp",
+    "class": "kansa"
+  }
+]

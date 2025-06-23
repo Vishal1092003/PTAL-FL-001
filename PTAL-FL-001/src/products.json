@@ -1,0 +1,1041 @@
+[
+  {
+    "id": 1,
+    "name": "Brass Essentials Combo Set (Brass Roti Tawa with Insulated handle, Brass Ghee Pot, Brass Kadhai with Insulated handles & Glass lid)",
+    "price": 8362,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Brass Essentials Combo Set (Brass Roti Tawa_with_Insulated_handle,Brass_Ghee_Pot,Brass_Kadhai_with_Insulated_handle_&Glass_lid).webp",
+    "class": "brass"
+  },
+  {
+    "id": 2,
+    "name": "Brass AttaDaani(StorageContainer)",
+    "price": 12405,
+    "rating": 5,
+    "reviews": 8,
+    "image": "/brassImages/BrassAttaDaani(StorageContainer).webp",
+    "class": "brass"
+  },
+  {
+    "id": 3,
+    "name": "Brass Box with Sweets",
+    "price": 4800,
+    "rating": 4,
+    "reviews": 15,
+    "image": "/brassImages/Brass_Box_withSweets.webp",
+    "class": "brass"
+  },
+  {
+    "id": 4,
+    "name": "Brass Canister with Sweets",
+    "price": 3500,
+    "rating": 4,
+    "reviews": 18,
+    "image": "/brassImages/Brass_Canister_with_Sweets.webp",
+    "class": "brass"
+  },
+  {
+    "id": 5,
+    "name": "Brass Chapati Box / Roti dabba",
+    "price": 4100,
+    "rating": 5,
+    "reviews": 25,
+    "image": "/brassImages/Brass_Chapati_Box_Roti_dabba.webp",
+    "class": "brass"
+  },
+  {
+    "id": 6,
+    "name": "Brass Coasters (Set of 6)",
+    "price": 1890,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Brass_Coasters(Set_of_6).webp",
+    "class": "brass"
+  },
+  {
+    "id": 7,
+    "name": "Brass Diya (set of 4 in gift box)",
+    "price": 1530,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Brass_Diya(set_of_4_in_gift_box).webp",
+    "class": "brass"
+  },
+  {
+    "id": 8,
+    "name": "Brass Dosa Tawa with Insulated handle: Naturally Non-Stick Tava & Uses Less Oil",
+    "price": 3750,
+    "rating": 5,
+    "reviews": 10,
+    "image": "/brassImages/Brass_Dosa_Tawa_with_Insulated_handle_Naturally_Non-Stick_Tava_&_Uses_Less_Oil.webp",
+    "class": "brass"
+  },
+  {
+    "id": 9,
+    "name": "Brass Dosa Tawa with Insulated handles And Brass Ghee Pot Combo",
+    "price": 4999,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Brass_Dosa_Tawa_with_Insulated_handles_And_Brass_Ghee_Pot_Combo.jpg",
+    "class": "brass"
+  },
+  {
+    "id": 10,
+    "name": "Brass Glass (S) ( set of 2 in gift box )",
+    "price": 1530,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Brass_Glass(S)(set_of_2_in_gift_box ).webp",
+    "class": "brass"
+  },
+  {
+    "id": 11,
+    "name": "Brass Hammered Cutlery Set (Set of 4)",
+    "price": 4250,
+    "rating": 4,
+    "reviews": 2,
+    "image": "/brassImages/Brass_Hammered_Cutlery_Set(Setof4).webp",
+    "class": "brass"
+  },
+  {
+    "id": 12,
+    "name": "Brass Hammered dibbi with sweets",
+    "price": 4800,
+    "rating": 5,
+    "reviews": 5,
+    "image": "/brassImages/Brass_Hammered_dibbi_with_sweets.webp",
+    "class": "brass"
+  },
+  {
+    "id": 13,
+    "name": "Brass Kadhai with Glass Lid (Round Base)",
+    "price": 3999,
+    "rating": 4,
+    "reviews": 10,
+    "image": "/brassImages/Brass_Kadhai_with_Glass_Lid(Round_Base).webp",
+    "class": "brass"
+  },
+  {
+    "id": 14,
+    "name": "Brass Karchi - Scoop Ladle",
+    "price": 1490,
+    "rating": 5,
+    "reviews": 7,
+    "image": "/brassImages/Brass_Karchi-Scoop_Ladle.webp",
+    "class": "brass"
+  },
+  {
+    "id": 15,
+    "name": "Brass Lagaan - Lagaan for cooking",
+    "price": 9995,
+    "rating": 5,
+    "reviews": 17,
+    "image": "/brassImages/Brass_Lagaan-Lagaan_for_cooking.webp",
+    "class": "brass"
+  },
+  {
+    "id": 16,
+    "name": "Brass Masala Daani / Spice Box",
+    "price": 5877,
+    "rating": 4,
+    "reviews": 48,
+    "image": "/brassImages/Brass_Masala_Daani_Spice_Box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 17,
+    "name": "Brass Masala Daani / Spice Box in Gift Box",
+    "price": 5842,
+    "rating": 4,
+    "reviews": 2,
+    "image": "/brassImages/Brass_Masala_Daani-Spice_Box_in_Gift_Box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 18,
+    "name": "Brass Mortar and Pestle (Okhli)",
+    "price": 2450,
+    "rating": 5,
+    "reviews": 7,
+    "image": "/brassImages/Brass_Mortar_and_Pestle(Okhli).webp",
+    "class": "brass"
+  },
+  {
+    "id": 19,
+    "name": "Brass Paraat",
+    "price": 3190,
+    "rating": 5,
+    "reviews": 75,
+    "image": "/brassImages/Brass_Paraat.webp",
+    "class": "brass"
+  },
+  {
+    "id": 20,
+    "name": "Brass Patili / Degchi - Naturally Non Stick , Non Toxic, Teflon Free",
+    "price": 3250,
+    "rating": 5,
+    "reviews": 65,
+    "image": "/brassImages/Brass_Patili_Degchi_Naturally_Non_Stick_Non_Toxic_Teflon_Free.webp",
+    "class": "brass"
+  },
+  {
+    "id": 21,
+    "name": "Brass Planters",
+    "price": 2766,
+    "rating": 5,
+    "reviews": 23,
+    "image": "/brassImages/Brass_Planters.webp",
+    "class": "brass"
+  },
+  {
+    "id": 22,
+    "name": "Brass Roti Tawa with Insulated handle And Ghee Pot Combo",
+    "price": 5230,
+    "rating": 4,
+    "reviews": 23,
+    "image": "/brassImages/Brass_Roti_Tawa_with_Insulated_handle_And_Ghee_Pot_Combo.jpg",
+    "class": "brass"
+  },
+  {
+    "id": 23,
+    "name": "Brass Round Canister",
+    "price": 2590,
+    "rating": 4,
+    "reviews": 3,
+    "image": "/brassImages/Brass_Round_Canister.jpg",
+    "class": "brass"
+  },
+  {
+    "id": 24,
+    "name": "Brass Saucepan with Insulated Handle",
+    "price": 2190,
+    "rating": 5,
+    "reviews": 8,
+    "image": "/brassImages/Brass_Saucepan_with_Insulated_Handle.webp",
+    "class": "brass"
+  },
+  {
+    "id": 25,
+    "name": "Brass Tawa with Insulated handle- Roti Tawa in Brass",
+    "price": 3489,
+    "rating": 4,
+    "reviews": 12,
+    "image": "/brassImages/Brass_Tawa_with_Insulated_handle-Roti_Tawa_in_Brass.webp",
+    "class": "brass"
+  },
+  {
+    "id": 26,
+    "name": "Brass Thaali Set - 5 pieces set (1 Thaali, 2 bowls, 1 glass and 1 spoon",
+    "price": 3450,
+    "rating": 5,
+    "reviews": 30,
+    "image": "/brassImages/Brass_Thaali_Set_5_pieces_set_1_Thaali_2_bowls_1_glass_and_1_spoon.webp",
+    "class": "brass"
+  },
+  {
+    "id": 27,
+    "name": "Brass Thaali- Thaali Plate for Dining/Brass Pooja Thaali",
+    "price": 2150,
+    "rating": 5,
+    "reviews": 14,
+    "image": "/brassImages/Brass_Thaali-Thaali_Plate_for_Dining_Brass_Pooja_Thaali.webp",
+    "class": "brass"
+  },
+  {
+    "id": 28,
+    "name": "Brass Urli In A Gift Box",
+    "price": 3409,
+    "rating": 4,
+    "reviews": 23,
+    "image": "/brassImages/Brass_Urli_In_A_Gift_Box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 29,
+    "name": "Brass Urli / Nacho Bowl - Handmade Brass Bowl for Snacks",
+    "price": 3209,
+    "rating": 5,
+    "reviews": 5,
+    "image": "/brassImages/Brass_Urli_Nacho_BowlHandmade_Brass_Bowl_for_Snacks.webp",
+    "class": "brass"
+  },
+  {
+    "id": 30,
+    "name": "Brass Atta Daani (Storage Container)",
+    "price": 12450,
+    "rating": 5,
+    "reviews": 8,
+    "image": "/brassImages/BrassAttaDaani(StorageContainer).webp",
+    "class": "brass"
+  },
+  {
+    "id": 31,
+    "name": "Chai Starter Kit (Brass Saucepan with Insulated handle + Brass Mortar and Pestle)",
+    "price": 4510,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Chai_Starter_Kit_Brass_Saucepan_with_Insulated_handleBrassMortarandPestle.webp",
+    "class": "brass"
+  },
+  {
+    "id": 32,
+    "name": "Copper Frypan (Frying Pan) with Insulated Brass Handle",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/brassImages/Copper_Frypan(Frying_Pan)with_Insulated_Brass_Handle.webp",
+    "class": "brass"
+  },
+  {
+    "id": 33,
+    "name": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+    "price": 299,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/De-oxidising_Cleanser(Copper_and_Brass_cleaning_solution).webp",
+    "class": "brass"
+  },
+  {
+    "id": 34,
+    "name": "Flat Base Brass Kadhai with Glass Lid-Naturally non stick, Non Toxic, Teflon Free",
+    "price": 5899,
+    "rating": 5,
+    "reviews": 7,
+    "image": "/brassImages/Flat_Base_Brass_Kadhai_with_Glass_Lid-Naturally_non_stick,Non_Toxic,Teflon_Free.webp",
+    "class": "brass"
+  },
+  {
+    "id": 35,
+    "name": "Brass Patila / Milk Topia- Naturally non stick , Non Toxic, Teflon Free",
+    "price": 3250,
+    "rating": 5,
+    "reviews": 66,
+    "image": "/brassImages/Brass_Patila_Milk_Topia-Naturally_non_stick,Non_Toxic,Teflon_Free.webp",
+    "class": "brass"
+  },
+  {
+    "id": 36,
+    "name": "Gift Box of Cutlery (Engraved Brass Forks & Spoons)",
+    "price": 3950,
+    "rating": 5,
+    "reviews": 6,
+    "image": "/brassImages/Gift_Box_of_Cutlery_Engraved_Brass_Forks&Spoons.webp",
+    "class": "brass"
+  },
+  {
+    "id": 37,
+    "name": "Brass Atta Daani (Storage Container)",
+    "price": 1950,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Kuber_brass_diya(set_of_4)in_Ivory_gift_box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 38,
+    "name": "Naav brass diya (set of 4) in Ivory gift box",
+    "price": 1950,
+    "rating": 5,
+    "reviews": 13,
+    "image": "/brassImages/Naav_brass_diya(set_of_4)in_Ivory_gift_box.webp",
+    "class": "brass"
+  },
+  {
+    "id": 39,
+    "name": "Panjiri in Brass Canister",
+    "price": 3000,
+    "rating": 5,
+    "reviews": 16,
+    "image": "/brassImages/Panjiri_in_Brass_Canister.webp",
+    "class": "brass"
+  },
+  {
+    "id": 40,
+    "name": "Set of 3 Brass Kadhais with Glass Lid (1.5L round base, 3L round base, 3L flat base)",
+    "price": 15210,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Set_of_3_Brass_Kadhais_with_Glass_Lid(1.5L_round_base,3L_round_base,3L-flat_base).webp",
+    "class": "brass"
+  },
+  {
+    "id": 41,
+    "name": "Set of 3 Brass Patilas / Milk Topias (1L, 3L, 5L)",
+    "price": 11660,
+    "rating": 5,
+    "reviews": 6,
+    "image": "/brassImages/Set_of_3_Brass_Patilas-Milk_Topias(1L,3L,5L).webp",
+    "class": "brass"
+  },
+  {
+    "id": 42,
+    "name": "Set of Brass Ladles",
+    "price": 3692,
+    "rating": 5,
+    "reviews": 12,
+    "image": "/brassImages/Set_of_Brass_Ladles.webp",
+    "class": "brass"
+  },
+
+
+
+  
+
+
+
+  
+
+  {
+    "id": 43,
+    "name": "Copper Cookware Combo Set",
+    "price": 21208,
+    "rating": 4,
+    "reviews": 1,
+    "image": "/copperImages/Copper_Cookware_Combo_Set.webp",
+    "class": "copper"
+  },
+  {
+    "id": 44,
+    "name": "Copper Frypan (Frying Pan) with Insulated Brass Handle",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Frypan_Frying_Pan_with_Insulated_Brass_Handle.webp",
+    "class": "copper"
+  },
+  {
+    "id": 45,
+    "name": "Copper Glass",
+    "price": 1890,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Glass.webp",
+    "class": "copper"
+  },
+  {
+    "id": 46,
+    "name": "Copper Hammered Lagan - Lagaan for cooking- Naturally non stick , Non Toxic, Teflon Free",
+    "price": 12895,
+    "rating": 5,
+    "reviews": 5,
+    "image": "/copperImages/Copper_Hammered_Lagan.webp",
+    "class": "copper"
+  },
+  {
+    "id": 47,
+    "name": "Copper Madurai Handi",
+    "price": 5995,
+    "rating": 5,
+    "reviews": 20,
+    "image": "/copperImages/Copper_Madurai_Handi.webp",
+    "class": "copper"
+  },
+  {
+    "id": 48,
+    "name": "Copper Moscow Mule Mugs (Set of 2 in gift box)",
+    "price": 2945,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/copperImages/Copper_Moscow_Mule_Mugs(Set_of_2_in_gift_box).webp",
+    "class": "copper"
+  },
+  {
+    "id": 49,
+    "name": "Copper Tumbler in Gift box",
+    "price": 2390,
+    "rating": 5,
+    "reviews": 2,
+    "image": "/copperImages/Copper_Tumbler_in_Gift_box.webp",
+    "class": "copper"
+  },
+  {
+    "id": 50,
+    "name": "Copper Tumbler",
+    "price": 2190,
+    "rating": 5,
+    "reviews": 40,
+    "image": "/copperImages/copper_tumbler.webp",
+    "class": "copper"
+  },
+  {
+    "id": 51,
+    "name": "Copper Water Bottle",
+    "price": 2750,
+    "rating": 5,
+    "reviews": 28,
+    "image": "/copperImages/copper_water_bottle.webp",
+    "class": "copper"
+  },
+  {
+    "id": 52,
+    "name": "Copper Water Dispenser Set",
+    "price": 10455,
+    "rating": 5,
+    "reviews": 19,
+    "image": "/copperImages/Copper_Water_Dispenser_Set.webp",
+    "class": "copper"
+  },
+  {
+    "id": 53,
+    "name": "Copper Water Dispenser",
+    "price": 8195,
+    "rating": 5,
+    "reviews": 72,
+    "image": "/copperImages/Copper_Water_Dispenser.webp",
+    "class": "copper"
+  },
+  {
+    "id": 54,
+    "name": "Copper Glass Set of 2 in a gift box",
+    "price": 3850,
+    "rating": 4,
+    "reviews": 2,
+    "image": "/copperImages/Copper_Glass_Set_of_2_in_a_gift_box.webp",
+    "class": "copper"
+  },
+  {
+    "id": 55,
+    "name": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+    "price": 299,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/copperImages/De-oxidising_Cleanser(Copper_and_Brass_cleaning_solution).webp",
+    "class": "copper"
+  },
+
+
+
+
+
+  {
+    "id": 56,
+    "name": "Kansa Dinner Plate Set - 5 pieces set (1 plate, 2 bowls, 1 glass and 1 spoon)",
+    "price": 7671,
+    "rating": 5,
+    "reviews": 6,
+    "image": "/kansaImages/Kansa_Dinner_Plate_Set-5_pieces_set(1_plate,2_bowls,1_glass_and_1_spoon).webp",
+    "class": "kansa"
+  },
+  {
+    "id": 57,
+    "name": "Kansa Dinner Thaali",
+    "price": 3737,
+    "rating": 5,
+    "reviews": 35,
+    "image": "/kansaImages/Kansa_Dinner_Plate-Bell_Metal_Plate.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 58,
+    "name": "Kansa Dinner Thaali Set (10.5' Thaali) - 5 pieces (1 Thaali, 2 Bowls, 1 glass and 1 spoon)",
+    "price": 13839,
+    "rating": 5,
+    "reviews": 4,
+    "image": "/kansaImages/Kansa_Dinner_Thaali_Set.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 59,
+    "name": "Kansa Dinner Thaali Set (Thaali -13.5) - 8 pieces set (1 pc Thaali, 5 pieces bowls, 1 pc glass, 1 pc spoon)",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/kansaImages/Kansa_Dinner_Thaali_Set(Thaali-13.5)-8_pieces_set(1_pc_Thaali,5_pieces_bowls,1_pc_glass,1_pc.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 60,
+    "name": "Kansa Dinner Plate / Bell Metal Plate",
+    "price": 3199,
+    "rating": 5,
+    "reviews": 2,
+    "image": "/kansaImages/Kansa_Dinner_Thaali.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 61,
+    "name": "Wedding Invite With P-TAL Kansa Thaali & Mithai",
+    "price": 2850,
+    "rating": 5,
+    "reviews": 6,
+    "image": "/kansaImages/Wedding_Invite_With_P_TAL_Kansa_Thaali_Mithai.webp",
+    "class": "kansa"
+  },
+  {
+    "id": 62,
+    "name": "Wedding Invites with P-TAL Kansa Thaali",
+    "price": 4750,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/kansaImages/Wedding_Invites_with_P-TAL_Kansa_Thaali.jpg",
+    "class": "kansa"
+  },
+
+
+
+
+
+  {
+    "id": 63,
+    "name": "Copper Tumbler",
+    "price": 2190,
+    "rating": 5,
+    "reviews": 40,
+    "image": "/copperImages/copper_tumbler.webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 64,
+    "name": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+    "price": 299,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/copperImages/De-oxidising_Cleanser(Copper_and_Brass_cleaning_solution).webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 65,
+    "name": "Copper Water Dispenser Set",
+    "price": 10455,
+    "rating": 5,
+    "reviews": 19,
+    "image": "/copperImages/Copper_Water_Dispenser_Set.webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 66,
+    "name": "Copper Water Bottle",
+    "price": 2750,
+    "rating": 5,
+    "reviews": 28,
+    "image": "/copperImages/copper_water_bottle.webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 67,
+    "name": "Copper Tumbler in Gift box",
+    "price": 2390,
+    "rating": 5,
+    "reviews": 2,
+    "image": "/copperImages/Copper_Tumbler_in_Gift_box.webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 68,
+    "name": "Copper Moscow Mule Mugs (Set of 2 in gift box)",
+    "price": 2945,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/copperImages/Copper_Moscow_Mule_Mugs(Set_of_2_in_gift_box).webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 69,
+    "name": "Copper Glass",
+    "price": 1890,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Glass.webp",
+    "class": "drinkware"
+  },
+  {
+    "id": 70,
+    "name": "Copper Tumbler in Gift box",
+    "price": 2390,
+    "rating": 5,
+    "reviews": 2,
+    "image": "/copperImages/Copper_Tumbler_in_Gift_box.webp",
+    "class": "drinkware"
+  },
+
+  
+
+    {
+      "id": 71,
+      "image": "/homePageImages/bestSellers/brass_water_dispenser.webp",
+      "rating": 5,
+      "reviews": 72,
+      "name": "COPPER WATER DISPENSER",
+      "price": "FROM ₹ 8,195",
+      "alt": "Copper Water Dispenser",
+      "class": "bestSellers"
+    },
+    {
+      "id": 72,
+      "image": "/homePageImages/bestSellers/Brass_Saucepan_with_Insulated_Handle.webp",
+      "rating": 5,
+      "reviews": 8,
+      "name": "BRASS SAUCEPAN WITH INSULATED HANDLE",
+      "price": "FROM ₹ 2,190",
+      "alt": "Brass Saucepan",
+      "class": "bestSellers"
+    },
+    {
+      "id": 73,
+      "image": "/homePageImages/bestSellers/Brass_Tawa_with_Insulated_handle-Roti_Tawa_in_Brass.webp",
+      "rating": 4,
+      "reviews": 12,
+      "name": "BRASS TAWA WITH INSULATED HANDLE- ROTI",
+      "price": "FROM ₹ 3,489",
+      "alt": "Brass Tawa",
+      "class": "bestSellers"
+    },
+    {
+      "id": 74,
+      "image": "/homePageImages/bestSellers/Copper_Frypan_Frying_Pan_with_Insulated_Brass_Handle.webp",
+      "rating": 5,
+      "reviews": 11,
+      "name": "COPPER FRYPAN (FRYING PAN) WITH INSULATED BRASS",
+      "price": "FROM ₹ 3,290",
+      "alt": "Copper Frypan",
+      "class": "bestSellers"
+    },
+    {
+      "id": 75,
+      "image": "/homePageImages/bestSellers/Brass_Kadhai_with_Glass_Lid(Round_Base).webp",
+      "rating": 4,
+      "reviews": 10,
+      "name": "BRASS KADHAI WITH GLASS LID (ROUND BASE)",
+      "price": "FROM ₹ 3,999",
+      "alt": "Copper Frypan",
+      "class": "bestSellers"
+    },
+    {
+      "id": 76,
+      "image": "/homePageImages/bestSellers/copper_water_bottle.webp",
+      "rating": 5,
+      "reviews": 28,
+      "name": "COPPER WATER BOTTLE",
+      "price": "FROM ₹ 2,750",
+      "alt": "Copper water bottle",
+      "class": "bestSellers"
+    },
+    {
+      "id": 77,
+      "image": "/homePageImages/bestSellers/Brass_Masala_Daani-Spice_Box_in_Gift_Box.webp",
+      "rating": 4,
+      "reviews": 48,
+      "name": "BRASS MASALA DAANI (SPICE BOX) IN GIFT BOX",
+      "price": "FROM ₹ 5,877",
+      "alt": "Brass Masala Daani",
+      "class": "bestSellers"
+    },
+    {
+      "id": 78,
+      "image": "/homePageImages/bestSellers/brass_ghee_pot.webp",
+      "rating": 5,
+      "reviews": 77,
+      "name": "BRASS GHEE POT",
+      "price": "FROM ₹ 1,850",
+      "alt": "Brass Ghee Pot",
+      "class": "bestSellers"
+    },
+    {
+      "id": 79,
+      "image": "/homePageImages/bestSellers/copper_water_bottle.webp",
+      "rating": 5,
+      "reviews": 28,
+      "name": "COPPER WATER BOTTLE",
+      "price": "FROM ₹ 2,750",
+      "alt": "Copper bottle",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 80,
+      "image": "/mulemugs.png",
+      "rating": 4,
+      "reviews": 15,
+      "name": "Copper Moscow Mule Mugs (Set of 2 in gift box)",
+      "price": "FROM ₹ 2,945",
+      "alt": "Copper Moscow Mule Mugs",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 81,
+      "image": "/homePageImages/newlyLaunched/KalaiKit(TinCoatingkitforcookwareutensils).webp",
+      "rating": 4,
+      "reviews": 9,
+      "name": "Kalai Kit (Tin Coating kit for cookware utensils)",
+      "price": "FROM ₹ 1,490",
+      "alt": "Kalai Kit (Tin Coating kit for cookware utensils)",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 82,
+      "image": "/homePageImages/newlyLaunched/Copper_Madurai_Handi.webp",
+      "rating": 5,
+      "reviews": 20,
+      "name": "COPPER MADURAI HANDI",
+      "price": "FROM ₹ 5,995",
+      "alt": "COPPER MADURAI HANDI",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 83,
+      "image": "/homePageImages/newlyLaunched/Copper_Hammered_Lagan.webp",
+      "rating": 5,
+      "reviews": 5,
+      "name": "BBRASS HAMMERED LAGAN- LAGAAN FOR COOKING",
+      "price": "FROM ₹ 12,895",
+      "alt": "BBRASS HAMMERED LAGAN",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 84,
+      "image": "/homePageImages/newlyLaunched/Brass_Hammered_Cutlery_Set(Setof4).webp",
+      "rating": 4,
+      "reviews": 2,
+      "name": "BRASS HAMMERED CUTLERY SET (Set of 4)",
+      "price": "FROM ₹ 4,250",
+      "alt": "BRASS HAMMERED CUTLERY SET (Set of 4)",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 85,
+      "image": "/homePageImages/newlyLaunched/Panjiri_in_Brass_Canister.webp",
+      "rating": 5,
+      "reviews": 25,
+      "name": "PANJIRI IN BRASS CANISTER",
+      "price": "FROM ₹ 3,000",
+      "alt": "PANJIRI IN BRASS CANISTER",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 86,
+      "image": "/homePageImages/newlyLaunched/Brass_Karchi-Scoop_Ladle.webp",
+      "rating": 5,
+      "reviews": 7,
+      "name": "BRASS KARCHI (SCOOP LADLE)",
+      "price": "FROM ₹ 1,490",
+      "alt": "BRASS KARCHI (SCOOP LADLE)",
+      "class": "newlyLaunched"
+    },
+    {
+      "id": 87,
+      "image": "/homePageImages/setsAndCombos/Copper_Water_Dispenser_Set.webp",
+      "rating": 5,
+      "reviews": 19,
+      "name": "COPPER WATER DISPENSER SET",
+      "price": "FROM ₹ 10,455",
+      "alt": "Copper Moscow Mule Mugs",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 88,
+      "image": "/homePageImages/setsAndCombos/Set_of_3_Brass_Patilas-Milk_Topias(1L,3L,5L).webp",
+      "rating": 4,
+      "reviews": 6,
+      "name": "SET OF 3 BRASS PATILAS (MILK TOPIAS) (1L, 3L, 5L)",
+      "price": "FROM ₹ 11,660",
+      "alt": "Copper Moscow Mule Mugs",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 89,
+      "image": "/mulemugs.png",
+      "rating": 4,
+      "reviews": 15,
+      "name": "Copper Moscow Mule Mugs (Set of 2 in gift box)",
+      "price": "FROM ₹ 2,945",
+      "alt": "Copper Moscow Mule Mugs",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 90,
+      "image": "/copperImages/Copper_Water_Dispenser_Set.webp",
+      "rating": 5,
+      "reviews": 19,
+      "name": "Copper Water Dispenser Set",
+      "price": "FROM ₹ 10,455",
+      "alt": "Copper Water Dispenser Set",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 91,
+      "image": "/copperImages/De-oxidising_Cleanser(Copper_and_Brass_cleaning_solution).webp",
+      "rating": 4,
+      "reviews": 7,
+      "name": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+      "price": "FROM ₹ 299",
+      "alt": "De-oxidising Cleanser (Copper and Brass cleaning solution)",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 92,
+      "image": "/kansaImages/Kansa_Dinner_Plate_Set-5_pieces_set(1_plate,2_bowls,1_glass_and_1_spoon).webp",
+      "rating": 5,
+      "reviews": 20,
+      "name": "Kansa Dinner Plate Set - 5 pieces set (1 plate, 2 bowls, 1 glass and 1 spoon)",
+      "price": "FROM ₹ 7,671",
+      "alt": "Kansa Dinner Plate Set - 5 pieces set (1 plate, 2 bowls, 1 glass and 1 spoon)",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 93,
+      "image": "/kansaImages/Kansa_Dinner_Thaali.webp",
+      "rating": 5,
+      "reviews": 15,
+      "name": "Kansa Dinner Plate / Bell Metal Plate",
+      "price": "FROM ₹ 3,199",
+      "alt": "Kansa Dinner Plate / Bell Metal Plate",
+      "class": "setsAndCombos"
+    },
+    {
+      "id": 94,
+      "image": "/kansaImages/Wedding_Invites_with_P-TAL_Kansa_Thaali.jpg",
+      "rating": 4,
+      "reviews": 17,
+      "name": "Wedding Invites with P-TAL Kansa Thaali",
+      "price": "FROM ₹ 4,750",
+      "alt": "Wedding Invites with P-TAL Kansa Thaali",
+      "class": "setsAndCombos"
+    },
+
+{
+    "id": 95,
+    "name": "COPPER WATER BOTTLE",
+    "price": "2720",
+    "rating": 5,
+    "reviews": 23,
+    "image": "/copperImages/copper_water_bottle.webp",
+    "class": "gifting"
+},
+
+{
+    "id": 96,
+    "name": "Brass Essentials Combo Set (Brass Roti Tawa with Insulated handle, Brass Ghee Pot, Brass Kadhai with Insulated handles & Glass lid)",
+    "price": 8362,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Brass Essentials Combo Set (Brass Roti Tawa_with_Insulated_handle,Brass_Ghee_Pot,Brass_Kadhai_with_Insulated_handle_&Glass_lid).webp",
+    "class": "gifting"
+},
+{
+    "id": 97,
+    "name": "Brass AttaDaani(StorageContainer)",
+    "price": 12405,
+    "rating": 5,
+    "reviews": 8,
+    "image": "/brassImages/BrassAttaDaani(StorageContainer).webp",
+    "class": "gifting"
+},
+{
+    "id": 98,
+    "name": "Copper Cookware Combo Set",
+    "price": 21208,
+    "rating": 4,
+    "reviews": 1,
+    "image": "/copperImages/Copper_Cookware_Combo_Set.webp",
+    "class": "gifting"
+},
+{
+    "id": 99,
+    "name": "Copper Frypan (Frying Pan) with Insulated Brass Handle",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Frypan_Frying_Pan_with_Insulated_Brass_Handle.webp",
+    "class": "gifting"
+},
+{
+    "id": 100,
+    "name": "Copper Glass",
+    "price": 1890,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/copperImages/Copper_Glass.webp",
+    "class": "gifting"
+},
+{
+    "id": 101,
+    "name": "Copper Hammered Lagan - Lagaan for cooking- Naturally non stick , Non Toxic, Teflon Free",
+    "price": 12895,
+    "rating": 5,
+    "reviews": 5,
+    "image": "/copperImages/Copper_Hammered_Lagan.webp",
+    "class": "gifting"
+},
+{
+    "id": 102,
+    "name": "Brass Atta Daani (Storage Container)",
+    "price": 1950,
+    "rating": 5,
+    "reviews": 1,
+    "image": "/brassImages/Kuber_brass_diya(set_of_4)in_Ivory_gift_box.webp",
+    "class": "gifting"
+},
+{
+    "id": 103,
+    "name": "Naav brass diya (set of 4) in Ivory gift box",
+    "price": 1950,
+    "rating": 5,
+    "reviews": 13,
+    "image": "/brassImages/Naav_brass_diya(set_of_4)in_Ivory_gift_box.webp",
+    "class": "gifting"
+},
+{
+    "id": 104,
+    "name": "Panjiri in Brass Canister",
+    "price": 3000,
+    "rating": 5,
+    "reviews": 16,
+    "image": "/brassImages/Panjiri_in_Brass_Canister.webp",
+    "class": "gifting"
+},
+{
+    "id": 105,
+    "name": "Set of 3 Brass Kadhais with Glass Lid (1.5L round base, 3L round base, 3L flat base)",
+    "price": 15210,
+    "rating": 5,
+    "reviews": 3,
+    "image": "/brassImages/Set_of_3_Brass_Kadhais_with_Glass_Lid(1.5L_round_base,3L_round_base,3L-flat_base).webp",
+    "class": "gifting"
+},
+{
+    "id": 106,
+    "name": "Set of 3 Brass Patilas / Milk Topias (1L, 3L, 5L)",
+    "price": 11660,
+    "rating": 5,
+    "reviews": 6,
+    "image": "/brassImages/Set_of_3_Brass_Patilas-Milk_Topias(1L,3L,5L).webp",
+    "class": "gifting"
+},
+{
+    "id": 107,
+    "name": "Set of Brass Ladles",
+    "price": 3692,
+    "rating": 5,
+    "reviews": 12,
+    "image": "/brassImages/Set_of_Brass_Ladles.webp",
+    "class": "gifting"
+},
+{
+    "id": 108,
+    "name": "Kansa Dinner Thaali",
+    "price": 3737,
+    "rating": 5,
+    "reviews": 35,
+    "image": "/kansaImages/Kansa_Dinner_Plate-Bell_Metal_Plate.webp",
+    "class": "gifting"
+},
+{
+    "id": 109,
+    "name": "Kansa Dinner Thaali Set (10.5' Thaali) - 5 pieces (1 Thaali, 2 Bowls, 1 glass and 1 spoon)",
+    "price": 13839,
+    "rating": 5,
+    "reviews": 4,
+    "image": "/kansaImages/Kansa_Dinner_Thaali_Set.webp",
+    "class": "gifting"
+},
+{
+    "id": 110,
+    "name": "Kansa Dinner Thaali Set (Thaali -13.5) - 8 pieces set (1 pc Thaali, 5 pieces bowls, 1 pc glass, 1 pc spoon)",
+    "price": 3290,
+    "rating": 5,
+    "reviews": 11,
+    "image": "/kansaImages/Kansa_Dinner_Thaali_Set(Thaali-13.5)-8_pieces_set(1_pc_Thaali,5_pieces_bowls,1_pc_glass,1_pc.webp",
+    "class": "gifting"
+}
+  
+]

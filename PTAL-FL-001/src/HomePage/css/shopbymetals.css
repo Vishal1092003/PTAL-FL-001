@@ -1,0 +1,188 @@
+/* Shop by Metals Section */
+.metals-section {
+  padding: 80px 0;
+  background-color: #f8f6f3;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.section-subtitle {
+  margin: 0px 0px 7px;
+  margin-bottom: 7px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  display: block;
+  box-sizing: border-box;
+}
+
+.section-title {
+  font-size: 48px;
+  font-weight: 400;
+  color: #8b0000;
+  margin: 0;
+  font-family: Fondamento, cursive;
+}
+
+.metals-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 60px;
+  align-items: end;
+}
+
+.metal-category {
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.metal-image {
+  position: relative;
+  width: 300px;
+  height: 370px;
+  margin: 0 auto 30px;
+  overflow: hidden;
+  border-radius: 150px 150px 0px 0px;
+  background: linear-gradient(145deg, #e6e6e6, #ffffff);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15), 0 10px 20px rgba(0, 0, 0, 0.1),
+    inset 0 5px 15px rgba(255, 255, 255, 0.8),
+    inset 0 -5px 15px rgba(0, 0, 0, 0.05);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.metal-image::before {
+  content: "";
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  width: 30%;
+  height: 30%;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.4), transparent);
+  border-radius: 50%;
+  filter: blur(20px);
+  z-index: 2;
+}
+
+.metal-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 150px 150px 0px 0px;
+  transition: transform 0.4s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.metal-category:hover .metal-image img {
+  transform: scale(1.5);
+}
+
+.metal-category:hover .metal-title {
+  color: rgb(176, 28, 26);
+}
+
+.metal-title {
+  color: rgb(0, 0, 0);
+  padding: 0px;
+  margin-top: 23px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .metals-section {
+    padding: 60px 0;
+  }
+
+  .section-title {
+    font-size: 36px;
+  }
+
+  .metals-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .metal-image {
+    width: 250px;
+    height: 280px;
+  }
+
+  .metal-image img {
+    border-radius: 125px 125px 0px 0px;
+  }
+
+  .metal-title {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  .section-title {
+    font-size: 28px;
+  }
+
+  .metal-image {
+    width: 200px;
+    height: 145px;
+  }
+
+  .metal-image img {
+    border-radius: 100px 100px 0px 0px;
+  }
+
+  .metals-grid {
+    gap: 30px;
+  }
+}
+
+/* ✅ Fix for 770px to 1050px width screens */
+@media (min-width: 769px) and (max-width: 1050px) {
+  .metals-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    justify-items: center;
+  }
+
+  .metal-image {
+    width: 260px;
+    height: 320px;
+  }
+
+  .metal-title {
+    font-size: 17px;
+  }
+
+  .section-title {
+    font-size: 40px;
+  }
+}
+
