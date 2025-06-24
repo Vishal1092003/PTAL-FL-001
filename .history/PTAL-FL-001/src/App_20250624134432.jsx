@@ -37,10 +37,10 @@ import ProductPage from "./ShopByMetals/ProductPage";
 import Cart from "./Navbar/Cart";
 
 import Gifting from "./NavbarPtal/ShopByUtility/Gifting";
-import Drinkware from "./NavbarPtal/ShopByUtility/Drinkware";
-import AsSeenOnTV from "./NavbarPtal/ShopByUtility/AsSeenOnTV";
-import CookwareAndKitchenware from "./NavbarPtal/ShopByUtility/CookwareAndKitchenware";
-import SetsAndCombos from "./NavbarPtal/ShopByUtility/SetsAndCombos";
+import Drinkware from "./ShopByUtility/Drinkware";
+import AsSeenOnTV from "./ShopByUtility/AsSeenOnTV";
+import CookwareAndKitchenware from "./ShopByUtility/CookwareAndKitchenware";
+import SetsAndCombos from "./ShopByUtility/SetsAndCombos";
 
 import SignUp from "./Navbar/SignUp"
 import SignIn from "./Navbar/SignIn";

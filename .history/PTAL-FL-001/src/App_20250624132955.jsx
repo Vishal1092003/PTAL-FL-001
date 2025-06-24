@@ -32,15 +32,15 @@ import Brass from "./ShopByMetals/Brass";
 import Copper from "./ShopByMetals/Copper";
 import Kansa from "./ShopByMetals/Kansa";
 import PopularProducts from "./ShopByMetals/PopularProducts";
-import ProductPage from "./ShopByMetals/ProductPage";
 
 import Cart from "./Navbar/Cart";
 
-import Gifting from "./NavbarPtal/ShopByUtility/Gifting";
-import Drinkware from "./NavbarPtal/ShopByUtility/Drinkware";
-import AsSeenOnTV from "./NavbarPtal/ShopByUtility/AsSeenOnTV";
-import CookwareAndKitchenware from "./NavbarPtal/ShopByUtility/CookwareAndKitchenware";
-import SetsAndCombos from "./NavbarPtal/ShopByUtility/SetsAndCombos";
+import Gifting from "./ShopByUtility/Gifting";
+import Drinkware from "./ShopByUtility/Drinkware";
+
+import AsSeenOnTV from "./ShopByUtility/AsSeenOnTV";
+import CookwareAndKitchenware from "./ShopByUtility/CookwareAndKitchenware";
+import SetsAndCombos from "./ShopByUtility/SetsAndCombos";
 
 import SignUp from "./Navbar/SignUp"
 import SignIn from "./Navbar/SignIn";
@@ -142,7 +142,7 @@ function App() {
         <Route path="/ShopByMetals/Brass" element={<Brass />} />
         <Route path="/ShopByMetals/Copper" element={<Copper />} />
         <Route path="/ShopByMetals/Kansa" element={<Kansa />} />
-        <Route path="/ShopByMetals/product:id" element={<ProductPage />} />
+        <Route path="/ShopByMetals/product:id" element
 
         <Route
           path="/ShopByMetals/PopularProducts"
