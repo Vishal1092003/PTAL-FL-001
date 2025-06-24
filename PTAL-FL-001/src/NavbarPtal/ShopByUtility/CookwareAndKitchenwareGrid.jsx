@@ -185,19 +185,23 @@ import React, { useState, useEffect } from "react";
 import productData from "../../products.json";
 import { useCart } from "../../contexts/CartContext";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
 
 // Product Card
 const ProductCard = ({ product, onAddToCart }) => {
   const [isAdded, setIsAdded] = useState(false);
   const { t } = useTranslation();
+  const navigate = useNavigate();
 
-  const handleAddToCart = () => {
+  const handleAddToCart = (e) => {
+    e.stopPropagation(); // Prevent navigation when clicking add to cart
     setIsAdded(true);
-    // Pass only the product ID instead of the full product object
     onAddToCart(product.id);
-    
-    // Reset the "Added" state after 2 seconds
     setTimeout(() => setIsAdded(false), 2000);
+  };
+
+  const handleProductClick = () => {
+    navigate(`/product/${product.id}`);
   };
 
   // Get translated product details
@@ -211,7 +215,8 @@ const ProductCard = ({ product, onAddToCart }) => {
   const translatedProduct = getTranslatedProduct(product);
 
   return (
-    <div className="bg-[#f9f4ec] text-[#1e1e1e] rounded-md overflow-hidden border border-gray-200 hover:shadow-lg transition-all duration-300 relative">
+    <div className="bg-[#f9f4ec] text-[#1e1e1e] rounded-md overflow-hidden border border-gray-200 hover:shadow-lg transition-all duration-300 relative cursor-pointer"
+      onClick={handleProductClick}>
       <img
         src={product.image}
         alt={translatedProduct.name}

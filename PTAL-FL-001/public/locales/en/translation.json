@@ -1905,7 +1905,95 @@
             "title": "GOVERNING LAW & JURISDICTION",
             "content": "These Terms will be governed by and interpreted in accordance with the laws of the State of [Your State] and you submit to the non-exclusive jurisdiction of the state and federal courts located in [Your State] for the resolution of any disputes."
           }
-        }
+        },
+
+          "product_page": {
+            "loading": "Loading...",
+            "not_found": "Product Not Found",
+            "go_back": "Go Back",
+            "back": "Back",
+            "reviews": "reviews",
+            "price": "{{currency}}{{price}}",
+            "quantity": "Quantity",
+            "add_to_cart": "Add to Cart",
+            "added_to_cart": "✓ Added to Cart!",
+            "description": "Product Description",
+            "default_description": "High-quality {{name}} crafted with precision and care.",
+            "buy_it_now": "Buy It Now",
+            "incl_taxes": "incl. of all taxes",
+            "tax_info": "*Tax included. Shipping calculated at checkout.",
+            "Offers": "Offers",
+            "categories": {
+              "brass": "Brass",
+              "copper": "Copper",
+              "kansa": "Kansa",
+              "gifting": "Gifting",
+              "drinkware": "Drinkware"
+            },
+            "offers": {
+              "flat_5_off": "Flat 5% off",
+              "on_all_orders": "on all orders",
+              "flat_8_off": "Flat 8% off on",
+              "orders_above_4999": "orders above Rs 4,999",
+              "flat_10_off": "Flat 10% off",
+              "orders_above_9999": "on orders above Rs 9,999",
+              "flat_12_off": "Flat 12% off",
+              "orders_above_24999": "on orders above Rs 24,999",
+              "apply_checkout": "(Apply at checkout)"
+            }
+          },
+  "payment": {
+    "no_items": "No Items in Cart",
+    "add_items_first": "Please add items to your cart before proceeding to payment.",
+    "go_to_cart": "Go to Cart",
+    "back_to_cart": "Back to Cart",
+    "or": "OR",
+    "contact": "Contact",
+    "log_in": "Log in",
+    "email_placeholder": "Email",
+    "email_news": "Email me with news and offers",
+    "delivery": "Delivery",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "company_optional": "Company (optional)",
+    "address": "Address",
+    "apartment_optional": "Apartment, suite, etc. (optional)",
+    "city": "City",
+    "zip_code": "ZIP code",
+    "phone": "Phone",
+    "shipping_method": "Shipping method",
+    "enter_shipping_address": "Enter your shipping address to view available shipping methods.",
+    "payment": "Payment",
+    "credit_card": "Credit card",
+    "card_number": "Card number",
+    "expiration_date": "Expiration date (MM / YY)",
+    "security_code": "Security code",
+    "name_on_card": "Name on card",
+    "use_shipping_address": "Use shipping address as billing address",
+    "add_tip": "Add tip",
+    "show_support": "Show your support for the team at P-TAL",
+    "none": "None",
+    "custom_tip": "Custom tip",
+    "add_tip_button": "Add tip",
+    "thank_you": "Thank you, we appreciate it.",
+    "save_info": "Save my information for a faster checkout with a Shop account",
+    "mobile_phone": "Mobile phone number",
+    "pay_now": "Pay now",
+    "terms_text": "Your info will be saved to a Shop account. By continuing, you agree to Shop's",
+    "terms_of_service": "Terms of Service",
+    "and_acknowledge": "and acknowledge the",
+    "privacy_policy": "Privacy Policy",
+    "order_summary": "Order Summary",
+    "discount_code": "Discount code",
+    "apply": "Apply",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tip": "Tip",
+    "total": "Total",
+    "including_taxes": "Including {amount} in taxes"
+  }
+
+  
       
       
     

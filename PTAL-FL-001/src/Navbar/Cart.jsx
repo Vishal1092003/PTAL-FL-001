@@ -642,12 +642,143 @@
 
 
 //new simple cart
+// import { useCart } from "../contexts/CartContext";
+// import { useTranslation } from "react-i18next";
+
+// export default function Cart() {
+//   const { cartItems, removeFromCart, updateQuantity, clearCart } = useCart();
+//   const { t, i18n } = useTranslation();
+
+//   // Helper function to get product details from translation
+//   const getProductDetails = (productId) => {
+//     return {
+//       id: productId,
+//       name: t(`products.${productId}.name`),
+//       price: parseFloat(t(`products.${productId}.price`)),
+//       image: t(`products.${productId}.image`)
+//     };
+//   };
+
+//   // Calculate total dynamically
+//   const total = cartItems.reduce((acc, item) => {
+//     const product = getProductDetails(item.id);
+//     return acc + (product.price * item.quantity);
+//   }, 0);
+
+//   // Get currency symbol based on language
+//   const getCurrencySymbol = () => i18n.language === 'ar' ? 'ر.س' : '₹';
+
+//   return (
+//     <section className={`p-4 sm:p-6 bg-[#f9f4ec] min-h-screen ${i18n.language === 'ar' ? 'rtl' : 'ltr'}`}>
+//       <div className="max-w-4xl mx-auto">
+//         <h1 className="text-2xl font-bold text-center mb-4 bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
+//           {t("cart.your_cart")}
+//         </h1>
+
+//         {cartItems.length === 0 ? (
+//           <div className="text-center py-12">
+//             <div className="w-20 h-20 mx-auto mb-4 bg-gray-100 rounded-full flex items-center justify-center">
+//               <svg className="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+//                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 3h2l.4 2M7 13h10l4-8H5.4m0 0L7 13m0 0l-2.5 5M7 13l2.5 5m0 0h8" />
+//               </svg>
+//             </div>
+//             <p className="text-gray-600 mb-2">{t("cart.cart_empty")}</p>
+//             <p className="text-gray-500 text-sm">{t("cart.cart_add_items")}</p>
+//           </div>
+//         ) : (
+//           <>
+//             <div className="space-y-4 mb-6">
+//               {cartItems.map((item) => {
+//                 const product = getProductDetails(item.id);
+//                 return (
+//                   <div key={item.id} className="bg-white rounded-xl p-4 shadow-sm flex flex-col sm:flex-row items-center">
+//                     {/* Image */}
+//                     <div className={`w-20 h-20 rounded-xl overflow-hidden bg-gray-100 mb-4 sm:mb-0 ${i18n.language === 'ar' ? 'ml-4' : 'mr-4'}`}>
+//                       <img src={product.image} alt={product.name} className="w-full h-full object-cover" />
+//                     </div>
+
+//                     {/* Details */}
+//                     <div className="flex-1 w-full">
+//                       <h2 className="font-semibold text-gray-800 text-lg">{product.name}</h2>
+//                       <div className="text-sm text-gray-600 mt-1">
+//                         {getCurrencySymbol()}{product.price} <span className="text-xs mx-1">{t("cart.per_item")}</span>
+//                       </div>
+//                       <div className="text-green-600 font-bold text-sm mt-1">
+//                         {t("cart.subtotal")}: {getCurrencySymbol()}{(product.price * item.quantity).toLocaleString()}
+//                       </div>
+
+//                       {/* Quantity Controls */}
+//                       <div className={`flex items-center mt-3 ${i18n.language === 'ar' ? 'space-x-reverse' : 'space-x-2'}`}>
+//                         <button
+//                           onClick={() => updateQuantity(item.id, Math.max(1, item.quantity - 1))}
+//                           disabled={item.quantity <= 1}
+//                           className="px-3 py-1 text-gray-600 border rounded disabled:opacity-50"
+//                         >
+//                           {i18n.language === "ar" ? "+" : "−"}
+//                         </button>
+//                         <span className="font-semibold px-3">{item.quantity}</span>
+//                         <button
+//                           onClick={() => updateQuantity(item.id, item.quantity + 1)}
+//                           className="px-3 py-1 text-gray-600 border rounded"
+//                         >
+//                           {i18n.language === "ar" ? "−" : "+"}
+//                         </button>
+//                       </div>
+//                     </div>
+
+//                     {/* Remove */}
+//                     <div className={`mt-4 sm:mt-0 ${i18n.language === 'ar' ? 'sm:mr-4' : 'sm:ml-4'}`}>
+//                       <button
+//                         onClick={() => removeFromCart(item.id)}
+//                         className="bg-gradient-to-r from-[#b01616] to-[#8b1010] text-white px-4 py-2 rounded font-semibold text-sm"
+//                       >
+//                         {t("cart.remove")}
+//                       </button>
+//                     </div>
+//                   </div>
+//                 );
+//               })}
+//             </div>
+
+//             {/* Summary */}
+//             <div className="bg-white rounded-xl shadow-md p-4 sticky bottom-0">
+//               <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
+//                 <div className="mb-4 sm:mb-0">
+//                   <p className="text-gray-600 text-sm">{t("cart.total_items")}: {cartItems.reduce((sum, item) => sum + item.quantity, 0)}</p>
+//                   <p className="text-xl font-bold text-gray-800">
+//                     {t("cart.total")}: {getCurrencySymbol()}{total.toLocaleString()}
+//                   </p>
+//                 </div>
+//                 <div className={`flex gap-3 ${i18n.language === 'ar' ? 'space-x-reverse' : 'space-x-3'}`}>
+//                   <button
+//                     onClick={clearCart}
+//                     className="bg-gray-500 hover:bg-gray-600 text-white px-4 py-2 rounded text-sm font-semibold"
+//                   >
+//                     {t("cart.clear_cart")}
+//                   </button>
+//                   <button
+//                     className="bg-gradient-to-r from-gray-800 to-gray-700 hover:from-gray-700 hover:to-gray-600 text-white px-5 py-2 rounded text-sm font-semibold"
+//                   >
+//                     {t("cart.checkout")}
+//                   </button>
+//                 </div>
+//               </div>
+//             </div>
+//           </>
+//         )}
+//       </div>
+//     </section>
+//   );
+// }
+
 import { useCart } from "../contexts/CartContext";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
 
 export default function Cart() {
   const { cartItems, removeFromCart, updateQuantity, clearCart } = useCart();
   const { t, i18n } = useTranslation();
+  const navigate = useNavigate();
 
   // Helper function to get product details from translation
   const getProductDetails = (productId) => {
@@ -667,6 +798,13 @@ export default function Cart() {
 
   // Get currency symbol based on language
   const getCurrencySymbol = () => i18n.language === 'ar' ? 'ر.س' : '₹';
+
+  // Handle checkout navigation
+  const handleCheckout = () => {
+    if (cartItems.length > 0) {
+      navigate('/payment');
+    }
+  };
 
   return (
     <section className={`p-4 sm:p-6 bg-[#f9f4ec] min-h-screen ${i18n.language === 'ar' ? 'rtl' : 'ltr'}`}>
@@ -757,7 +895,9 @@ export default function Cart() {
                     {t("cart.clear_cart")}
                   </button>
                   <button
-                    className="bg-gradient-to-r from-gray-800 to-gray-700 hover:from-gray-700 hover:to-gray-600 text-white px-5 py-2 rounded text-sm font-semibold"
+                    onClick={handleCheckout}
+                    disabled={cartItems.length === 0}
+                    className="bg-gradient-to-r from-gray-800 to-gray-700 hover:from-gray-700 hover:to-gray-600 text-white px-5 py-2 rounded text-sm font-semibold disabled:opacity-50 disabled:cursor-not-allowed"
                   >
                     {t("cart.checkout")}
                   </button>
