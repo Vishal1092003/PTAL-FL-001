@@ -75,7 +75,7 @@ const GiftSection = () => {
           </div>
           <div className="text-center mt-6 lg:hidden">
             <a
-              href="https://ptal.in/collections/gifting"
+              href="https://ptalwebsite.vercel.app/ShopByUtility/Gifting"
               className="px-3 py-1.5 text-xs sm:text-sm font-semibold bg-gradient-to-r from-[#B01C1A] to-[#8B1416] text-white rounded-full hover:from-[#8B1416] hover:to-[#B01C1A] transition-all duration-300 transform hover:scale-105 hover:shadow-lg"
             >
               {t('gift_section.explore_more')}
@@ -99,7 +99,7 @@ const GiftSection = () => {
           </p>
           <div className="hidden lg:flex">
            <a
-              href="https://ptal.in/collections/gifting"
+              href="https://ptalwebsite.vercel.app/ShopByUtility/Gifting"
               className="px-3 py-1.5 text-xs sm:text-sm font-semibold bg-gradient-to-r from-[#B01C1A] to-[#8B1416] text-white rounded-full hover:from-[#8B1416] hover:to-[#B01C1A] transition-all duration-300 transform hover:scale-105 hover:shadow-lg"
             >
               {t('gift_section.explore_more')}
