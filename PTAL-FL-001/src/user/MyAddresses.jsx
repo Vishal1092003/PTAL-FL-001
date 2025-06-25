@@ -128,7 +128,7 @@ export default function MyAddresses() {
   return (
     <div className="max-w-4xl mx-auto p-4 md:p-6">
       <div className="flex justify-between items-center mb-6">
-        <h2 className="text-2xl font-bold text-gray-800">My Addresses</h2>
+        <h2 className="text-4xl  text-[#b3332b]" style={{ fontFamily: "Fondamento, cursive" }}>My Addresses</h2>
         <button
           onClick={handleAddNew}
           className="flex items-center gap-2 bg-[#b3332b] text-white px-4 py-2 rounded-md hover:bg-[#9a2b24] transition-colors"

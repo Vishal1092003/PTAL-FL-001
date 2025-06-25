@@ -41,7 +41,7 @@ export default function MyAccount() {
   };
 
   return (
-    <div className="min-h-screen bg-[#f8f6ef] font-serif text-[#3e2b1c] flex flex-col md:flex-row">
+    <div className="min-h-screen bg-[#f8f6ef] font-sans text-[#2b1910] flex flex-col md:flex-row">
       {/* Mobile Menu Toggle */}
       <div className="md:hidden flex justify-between items-center px-4 py-3 border-b border-gray-300 bg-[#fefbf2]">
         <div className="text-xl font-semibold truncate max-w-[200px]">
@@ -94,7 +94,7 @@ export default function MyAccount() {
             window.location.href = "/signin";
           }}
           className="px-6 py-2 border border-[#b3332b] text-[#b3332b] rounded-md hover:bg-[#b3332b] hover:text-white transition-colors"
-          style={{marginTop:"20px"}}
+          style={{ marginTop: "20px" }}
         >
           Logout
         </button>
