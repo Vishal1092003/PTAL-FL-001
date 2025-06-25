@@ -261,6 +261,8 @@ import SetsAndCombos from "./NavbarPtal/ShopByUtility/SetsAndCombos";
 
 import SignUp from "./Navbar/SignUp"
 import SignIn from "./Navbar/SignIn";
+import MyAccount from "./user/MyAccount";
+import PrivateRoute from "./user/PrivateRoute";
 import Search from "./Navbar/Search";
 import ScrollToTop from "./ScrollToTop";
 import SetPassword from "./Navbar/SetPassword"
@@ -386,9 +388,19 @@ function App() {
         />
 
         <Route path="/cart" element={<Cart />} />
+        {/* <Route path="/signin" element={<SignIn />} /> */}
+
         <Route path="/signin" element={<SignIn />} />
-        <Route path="/setpassword" element={<SetPassword/>}/>
+        <Route
+          path="/user/MyAccount"
+          element={
+            <PrivateRoute>
+              <MyAccount />
+            </PrivateRoute>
+          }
+        />
         <Route path="/signup" element={<SignUp/>}/>
+        <Route path="/setpassword" element={<SetPassword/>}/>
         <Route path="/search" element={<Search />} />
 
         <Route path="/Navbar/cart" element={<Cart />} />
