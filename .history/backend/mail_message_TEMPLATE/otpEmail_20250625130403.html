@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #faf7f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .header {
+            text-align: center;
+        }
+
+        .logo {
+            height: 60px;
+            margin-bottom: 10px;
+        }
+
+        .otp-box {
+            background-color: #f3ede7;
+            border: 2px dashed #b78c4c;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            color: #b78c4c;
+            margin: 20px 0;
+            text-align: center;
+            border-radius: 10px;
+        }
+
+        .footer {
+            font-size: 12px;
+            color: #777;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #b78c4c;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="../../PTAL-FL-001/public/newestLogo.png" alt="Sanaaya Logo" class="logo" />
+            <h2>Your Password Reset OTP</h2>
+        </div>
+        <p>Dear Customer,</p>
+        <p>You requested to reset your password. Use the OTP below to proceed. This OTP is valid for 15 minutes:</p>
+
+        <div class="otp-box">{{OTP}}</div>
+
+        <p>If you didn't request this, please ignore this email or contact support immediately.</p>
+
+        <a href="https://sanaaya.in" class="button">Visit Sanaaya</a>
+
+        <div class="footer">
+            &copy; 2025 Sanaaya. All rights reserved.<br>
+            Ayurvedic Wellness | <a href="mailto:support@sanaaya.in">support@sanaaya.in</a>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Password Reset OTP - Sanaaya</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fdf9f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 640px;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+            color: #3d3d3d;
+        }
+
+        .header {
+            text-align: center;
+        }
+
+        .logo {
+            height: 60px;
+            margin-bottom: 15px;
+        }
+
+        h2 {
+            color: #5c2c1d;
+            margin-bottom: 10px;
+        }
+
+        .otp-box {
+            background-color: #f9f5ef;
+            border: 2px dashed #b78c4c;
+            padding: 20px;
+            font-size: 26px;
+            font-weight: bold;
+            color: #b78c4c;
+            margin: 20px 0;
+            text-align: center;
+            border-radius: 10px;
+        }
+
+        .section-title {
+            color: #5c2c1d;
+            font-weight: bold;
+            font-size: 18px;
+            margin-top: 30px;
+        }
+
+        .section-text {
+            margin-top: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .pill {
+            display: inline-block;
+            background-color: #eee3d3;
+            color: #5c2c1d;
+            padding: 8px 14px;
+            margin: 6px 4px;
+            font-size: 13px;
+            border-radius: 30px;
+            font-weight: bold;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background-color: #b78c4c;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .footer {
+            font-size: 12px;
+            color: #888;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        a {
+            color: #b78c4c;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="cid:sanaaya-logo" alt="Sanaaya Logo" class="logo" />
+            <h2>Your Password Reset OTP</h2>
+        </div>
+
+        <p>Dear Customer,</p>
+        <p>You requested to reset your password. Use the OTP below to proceed. This OTP is valid for 15 minutes:</p>
+
+        <div class="otp-box">{{OTP}}</div>
+
+        <p>If you didn't request this, please ignore this email or contact support immediately.</p>
+
+        <hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;" />
+
+        <div class="section-title">Sanaaya – A Heritage Revived</div>
+        <div class="section-text">
+            SANAAYA is committed to reviving the dying craft of the Thathera community of Jandiala Guru, Amritsar —
+            India's only craft form recognized by <strong>UNESCO's List of Intangible Cultural Heritage</strong>.
+            Every handcrafted product tells a story — a tale of tradition, legacy, and perfection.
+        </div>
+
+        <div class="section-title">Why Sanaaya?</div>
+        <div>
+            <span class="pill">Ayurvedic</span>
+            <span class="pill">Authentic</span>
+            <span class="pill">Sustainable</span>
+        </div>
+        <div class="section-text">
+            <ul>
+                <li>Made from 100% pure Brass, Copper, and Kansa</li>
+                <li>Boosts immunity, aids digestion, and improves health</li>
+                <li>ISO 9001:2005 certified quality</li>
+                <li>Eco-friendly and built to last a lifetime</li>
+            </ul>
+        </div>
+
+        <div class="section-title">✨ Gifting That Makes an Impact</div>
+        <div class="section-text">
+            Each human is unique — so should be your gift. Choose from our wide range of
+            <strong>handcrafted gift assortments</strong> and bring joy to your loved ones.
+        </div>
+
+        <a href="https://sanaaya.in" class="button">Explore More on Sanaaya.in</a>
+
+        <div class="footer">
+            &copy; 2025 Sanaaya. All rights reserved.<br />
+            Handcrafted Wellness | <a href="mailto:support@sanaaya.in">support@sanaaya.in</a>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -6,7 +6,7 @@ const EchoPurchase=require('./EchoPurchase');
 const UserSchema = new mongoose.Schema({
     firstName: {
         type: String,
-        required: ,true
+        required: false,
         trim: true
     },
     lastName: {
