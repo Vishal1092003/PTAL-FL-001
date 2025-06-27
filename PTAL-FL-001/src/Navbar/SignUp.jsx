@@ -18,7 +18,7 @@ function SignUp() {
         }
 
         try {
-            const res = await fetch("http://localhost:8080/signup", {
+            const res = await fetch("http://backend1.chitrabindoo.com/signup", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ email, password }),

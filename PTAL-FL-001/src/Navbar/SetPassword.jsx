@@ -34,7 +34,7 @@ function SetPassword() {
             return;
         }
         try {
-            const res = await fetch("http://localhost:8080/request-reset-otp", {
+            const res = await fetch("http://backend1.chitrabindoo.com/request-reset-otp", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ email }),
@@ -62,7 +62,7 @@ function SetPassword() {
             return;
         }
         try {
-            const res = await fetch("http://localhost:8080/setpassword", {
+            const res = await fetch("http://backend1.chitrabindoo.com/setpassword", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ email, otp, newPassword }),
